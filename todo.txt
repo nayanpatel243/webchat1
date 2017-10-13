@@ -1,0 +1,2 @@
+1. implement logger middleware.
+2. make a better form validator function.

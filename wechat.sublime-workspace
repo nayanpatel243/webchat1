@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"require"
+			],
+			[
+				"otco",
+				"otCoreOptions"
+			],
+			[
+				"rece",
+				"recentCallDurationM"
+			],
+			[
+				"remov",
+				"removeRes"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"get",
+				"getJournal"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"vi",
+				"videoTag"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"ren",
+				"renderTag"
+			],
+			[
+				"new",
+				"newProps"
+			],
+			[
+				"vid",
+				"videoCallDetail"
+			],
+			[
+				"vice",
+				"videoCalls"
+			],
+			[
+				"vide",
+				"videoCall"
+			],
+			[
+				"tas",
+				"taskNum"
+			],
+			[
+				"pr",
+				"provider"
+			],
+			[
+				"hoo",
+				"hookData"
+			],
+			[
+				"pro",
+				"progressQuery"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"No",
+				"NotFound"
+			],
+			[
+				"Enroll",
+				"enrollment-manger"
+			],
+			[
+				"cal",
+				"calendlyHookId"
+			],
+			[
+				"Ini",
+				"invitee"
+			],
+			[
+				"ho",
+				"hookData"
+			],
+			[
+				"evn",
+				"eventTypes"
+			],
+			[
+				"find",
+				"findComponent"
+			],
+			[
+				"rend",
+				"renderComponent"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"defa",
+				"DefaultComponent"
+			],
+			[
+				"def",
+				"DefaultComponent"
+			],
+			[
+				"de",
+				"DefaultComponent"
+			],
+			[
+				"task",
+				"taskComponent"
+			],
+			[
+				"B",
+				"BookYourAppointment"
+			],
+			[
+				"Oboard",
+				"onboardCompleted"
+			],
+			[
+				"onb",
+				"onboardCompleted"
+			],
+			[
+				"se",
+				"settingData"
+			],
+			[
+				"sett",
+				"setting"
+			],
+			[
+				"log",
+				"logge"
+			],
+			[
+				"expert",
+				"expertData"
+			],
+			[
+				"Pr",
+				"PropTypes"
+			],
+			[
+				"sign",
+				"signupAction"
+			],
+			[
+				"save",
+				"saveExpertise"
+			],
+			[
+				"is",
+				"isDuplicateTag"
+			],
+			[
+				"exper",
+				"expertiseData"
+			],
+			[
+				"expertise",
+				"expertise"
+			],
+			[
+				"han",
+				"handleAddition"
+			],
+			[
+				"phy",
+				"physio"
+			],
+			[
+				"fo",
+				"FormGroup"
+			],
+			[
+				"ha",
+				"handleAddition"
+			],
+			[
+				"me",
+				"mentalHealthSugg"
+			],
+			[
+				"nut",
+				"nutritionalWellnessSugg"
+			],
+			[
+				"men",
+				"mental"
+			],
+			[
+				"ex",
+				"existingMembers"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"exp",
+				"expertiseCategoryGroup"
+			],
+			[
+				"expe",
+				"expertiseGroup"
+			],
+			[
+				"reac",
+				"react-tag-autocomplete"
+			],
+			[
+				"R",
+				"ReactTags"
+			],
+			[
+				"spe",
+				"specialities"
+			],
+			[
+				"spec",
+				"specialitiesData"
+			],
+			[
+				"sp",
+				"specialities"
+			],
+			[
+				"fet",
+				"fetchSpecialities"
+			],
+			[
+				"e",
+				"expert"
+			],
+			[
+				"file",
+				"fileError"
+			],
+			[
+				"ma",
+				"maxLength"
+			],
+			[
+				"sub",
+				"subCategory"
+			],
+			[
+				"rol",
+				"roleResponse"
+			],
+			[
+				"in",
+				"injectUser"
+			],
+			[
+				"jwt",
+				"jwtData"
+			],
+			[
+				"va",
+				"validateJwt"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"uni",
+				"uniqueErrors"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"un",
+				"uniqueErrors"
+			],
+			[
+				"com",
+				"companyValidator"
+			],
+			[
+				"hok",
+				"hooks"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"val",
+				"Validator"
+			],
+			[
+				"type",
+				"typeResult"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"ch",
+				"checkEmpty"
+			],
+			[
+				"fea",
+				"feathers-hook-validation-jsonschema"
+			],
+			[
+				"dis",
+				"discard"
+			],
+			[
+				"Fi",
+				"FistFactorialRec"
+			],
+			[
+				"Rea",
+				"ReactDom"
+			],
+			[
+				"we",
+				"webpack-dev-server"
+			],
+			[
+				"expres",
+				"express-validator"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn",
+				"SyntaxFold: Fold All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 585.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/neeraj/projects/feather/IsosHealth/backend/config/sample.config.json",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/journal/journal.hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/config/default.json",
+		"/tmp/sublime-sftp-browse-1505480605/isoshealth-dev/home/node/isoshealth/backend/config/default.json",
+		"/tmp/sublime-sftp-browse-1505480319/isoshealth-dev/home/node/isoshealth/backend/config/default.json",
+		"/home/neeraj/projects/feather/IsosHealth/backend/config/journal.config.json",
+		"/tmp/sublime-sftp-browse-1505479348/isoshealth-dev/home/node/isoshealth/backend/src/services/journal/journal.hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/journal/backup.journal.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-configuration/lib/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/components/Dashboard.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/modules/dashboard.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/containers/DashboardContainer.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/components/expertOnboard/VideoCall.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/node_modules/opentok-solutions-css/style.css",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/components/expertOnboard/assets/video-call.css",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/package.json",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/components/Header/assets/isos-logo-darkbg.png",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/node_modules/classnames/index.js",
+		"/tmp/sublime-sftp-browse-1505468462/isoshealth-dev/home/node/isoshealth/videocall-demo/videocall-demo/public/js/app.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/video-session/video-session.hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/models/journal.model.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/components/PostItem/PostItem.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/components/PostItem/PostItem.scss",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/inject-user.js",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/syntax_fold.sublime-settings",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/sftp_servers/webchat",
+		"/home/neeraj/projects/node/webchat/models/upload.js",
+		"/home/neeraj/projects/node/webchat/models/user.js",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/ESLint-Formatter.sublime-settings",
+		"/home/neeraj/projects/node/webchat/node_modules/express/index.js",
+		"/home/neeraj/projects/node/webchat/routes/chat.js",
+		"/home/neeraj/projects/node/webchat/.eslintrc",
+		"/home/neeraj/projects/node/webchat/routes/auth.js",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/sftp_servers/isoshealth-dev",
+		"/home/neeraj/projects/node/webchat/routes/sftp-config.json",
+		"/home/neeraj/projects/node/webchat/models/auth.js",
+		"/home/neeraj/projects/node/webchat/routes/index.js",
+		"/home/neeraj/projects/node/webchat/app.js",
+		"/home/neeraj/projects/node/webchat/routes/users.js",
+		"/home/neeraj/projects/node/webchat/.gitignore",
+		"/home/neeraj/projects/node/webchat/config/app.conf.js",
+		"/home/neeraj/projects/node/webchat/node_modules/multer/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/components/expertOnboard/BookYourAppointment.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/project.config.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/start-videocall.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/node_modules/opentok-react/dist/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/node_modules/opentok-react/dist/createSession.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/index.html",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validation/expert-profile/about.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-mongoose/lib/service.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-mongoose/lib/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-mongoose/lib/hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/node_modules/moment/moment.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/config/config.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/config/config.sample.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/models/video-session.model.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/setting/setting.hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/task-engine/task-engine.hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validation/create-user.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/speciality/speciality.service.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validation/save-videosession.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-hooks-common/lib/services/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-hooks-common/lib/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/Auth/modules/auth.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/user-has-type.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-hooks-common/lib/services/is-provider.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/progressBar/ProgressBar.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/modules/signup.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validate-jwt.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/.gitignore",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/setting/setting.filters.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/Expertise.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/components/expertOnboard/DefaultComponent.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/scripts/expert-onboard.yml",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/task-engine/task-engine.class.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validation/expert-profile/profession.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validation/update-availability.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/task-engine/task-engine.service.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/scripts/expert_onboard.yml",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-errors/lib/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-logger/lib/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/app.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/feathers-errors/not-found.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/task-engine/task-engine.filters.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/node_modules/babel-traverse/lib/path/context.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/app.hooks.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/package.json",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/models/setting.model.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/SignUp.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/containers/SignUpContainer.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/formGroup/mentalTag.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/formGroup/nutritionalTag.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/formGroup/physicalTag.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/ContactInfo.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/.eslintrc.json",
+		"/home/neeraj/projects/feather/IsosHealth/backend/.editorconfig",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/upload/upload.class.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/AboutYou.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/SignUp.scss",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/progressBar/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/models/expert.model.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/Progress.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/progressBar/ProgressBar.scss",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/upload/upload.service.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertDashboard/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/Home/components/HomeView.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/Home/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/index.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/store/createStore.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/store/location.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/components/RenderFormFields/RenderField.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/video-session/start-video-session/start-video-session.filters.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/mongoose.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/hooks/validation/save-team.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/models/team.model.js",
+		"/home/neeraj/projects/feather/IsosHealth/backend/src/services/team/team.hooks.js",
+		"/home/neeraj/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/neeraj/.config/sublime-text-3/Packages/User/ESLint.sublime-settings",
+		"/home/neeraj/projects/feather/invoiceFrontend/src/routes/Company/containers/CompanyContainer.js",
+		"/home/neeraj/projects/feather/invoice/src/hooks/invoice-save-validator.js",
+		"/home/neeraj/projects/feather/invoice/src/models/invoice.model.js",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/styles/_base.scss",
+		"/home/neeraj/projects/feather/IsosHealth/frontend/src/routes/ExpertSignUp/components/renderField.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 169.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 82.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 194.0
+	},
+	"pinned_build_system": "",
+	"project": "wechat.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"routes/index.js"
+			],
+			[
+				"auth",
+				"models/auth.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/node/webchat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 814.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
