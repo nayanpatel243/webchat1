@@ -12,7 +12,7 @@ const passportJWT = require('passport-jwt');
 const config = require('./config/app.conf');
 const User = require('./models/user');
 
-
+console.log('config.database---> ',config.database)
 mongoose.connect(config.database, { useMongoClient: true });
 
 const app = express();
