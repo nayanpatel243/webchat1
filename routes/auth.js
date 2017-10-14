@@ -139,7 +139,12 @@ router.post('/refreshToken', (req, res, next) => {
     }
   });
 });
-
+router.post('/stateList',(req,res,next) => {
+  console.log("stateList")
+  if(typeof req.body.cc != "undefined"){
+    
+  }
+})
 
 module.exports = router;
 
